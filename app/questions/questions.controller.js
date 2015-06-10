@@ -1,5 +1,5 @@
 /*angular.module('tech-talk')
 
-	.controller('QuestionsController', function(){
+	.controller('QuestionsController', function($scope){
     
     });*/
