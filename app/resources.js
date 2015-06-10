@@ -1,4 +1,4 @@
-angular.module('tech-talk')
+/*angular.module('tech-talk')
 
 	.factory('QuestionsResource', function($http){
 		var service = {};
@@ -18,4 +18,4 @@ angular.module('tech-talk')
 		}
 
 		return service;
-	});
+	});*/
