@@ -2,9 +2,14 @@
 
 ## Links
 
-* [node.js](https://nodejs.org/)
+Need a webserver running for AJAX requests. Nodejs + http-server will get the job done.
+* [node.js](https://nodejs.org/) 
 * [node.js http-server](https://www.npmjs.com/package/http-server)
+
+For anyone who
 * [Completed version of tech talk](https://github.com/DevinHolland/angular-tech-talk-working)
+
+* [Thinking in Angular with jQuery background](http://stackoverflow.com/a/15012542/2506594)
 
 ## Agenda
 
