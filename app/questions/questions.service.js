@@ -1,4 +1,4 @@
-//angular.module('tech-talk')
+angular.module('tech-talk')
 
 /*service.saveAnswers = function(answers){
     var promises = [];

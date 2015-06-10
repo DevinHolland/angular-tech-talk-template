@@ -1,1 +1,1 @@
-//angular.module('tech-talk')
+angular.module('tech-talk')
